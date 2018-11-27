@@ -1,2 +1,2 @@
-difference command
+git diff command
 
